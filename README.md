@@ -48,7 +48,6 @@ Coroutine test utilities for coroutine-based functions
   - `app/debug/`
   - `app/release/`
 
-- **Screenshots** of the app UI are provided with the project files.
 
 ---
 
@@ -58,3 +57,15 @@ This app was created to demonstrate key Android development skills using modern 
 It serves as part of a professional Android developer portfolio and is not intended for commercial use.
 
 ---
+
+
+- **Screenshots** 
+
+<img width="481" height="926" alt="Screenshot 2025-07-21 145411" src="https://github.com/user-attachments/assets/e1cc17d6-2cb5-42d5-9a08-fa29063feab1" />
+
+<img width="512" height="972" alt="Screenshot 2025-07-22 152242" src="https://github.com/user-attachments/assets/f6336416-9fcd-4646-8a8d-efaeb415c0d3" />
+
+<img width="514" height="955" alt="Screenshot 2025-07-21 145454" src="https://github.com/user-attachments/assets/fcacf214-13de-4e9b-a998-e23f836c6b26" />
+
+
+
